@@ -1,0 +1,15 @@
+{
+	"name": "united-asian/glip",
+	"description": "A Git Library In PHP",
+	"require": {
+	},
+	"autoload": {
+		"psr-4": { "lib\\": "" }
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
+		}
+	}
+}
+
